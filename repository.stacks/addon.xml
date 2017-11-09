@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.stacks" name="stacks repo" version="0.0.1" provider-name="stacks">
+	<extension point="xbmc.addon.repository" name="stacks repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/stacksptdtdm/repository.stacks/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/stacksptdtdm/repository.stacks/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/stacksptdtdm/repository.stacks/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">movies and tv shows</summary>
+		<description lang="en">movies and tv shows needs</description>
+		<genre></genre>
+	</extension>
+</addon>
